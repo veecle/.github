@@ -9,19 +9,19 @@ Veecle has 3 different product lines:
 - **Nteract:** a 100% Rust Android Automotive & Linux compatible HAL providing secure & safe APIs to communicate to any vehicle. Nteract acts as the security gateway between the non-secure, connected "Android & Linux" world and the in-vehicle highly secure domain. This allows for zero-cost secure integration of HMI and applications 
 
 - **Veecle Studio & Cloud Services** consist of a set of tools that can be used to deploy, test, monitor and manage our instances. At its core, this is a set of secure APIs that allows interconnecting visual tools for development, deployment, data visualisation, data storage and fleet management
-        
-## What is published 
+
+## What is currenty published
 
 - [TC37x-demo](https://github.com/veecle/tc37x-demo): demo code to run a 100% Rust basic CAN driver on AURIX™ TC375 LK
 - [Tricore-probe](https://github.com/veecle/tricore-probe): a Rust probe for AURIX™ (currently works on Windows and Linux)  
 
+These are demos! For full AURIX™ Rust support package please write us at info@veecle.io
+
 ## Upcoming
 **Stay tuned! Our first release is coming soon!**
 
-Dependency-free libraries for:
-    - Asynchronous execution: embedded code is heavily event and I/O driven. Veecle async library massively reduces the complexity of code that relies on multitasking
-    - Type-state API: most embedded execution work in a state-machine fashion. Veecle type-state library enforces execution order and rules at compile type
-    - Type-safe processing: embedded data are transmitted via binary protocols. Veecle encoder library provides type-safe, memory-safe, and allocation-free binary encoders and decoders 
+We are working towards opening our codebase and first release! In the meantime, if you wish to get access to NoS or any of our product please 
+visit our website or write us at info@veecle.io 
 
 ## Learn more
 Are you interested in Veecle? \
