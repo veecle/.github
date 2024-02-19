@@ -10,7 +10,7 @@ Veecle has 3 different product lines:
 
 - **Veecle Studio & Cloud Services** consist of a set of tools that can be used to deploy, test, monitor and manage our instances. At its core, this is a set of secure APIs that allows interconnecting visual tools for development, deployment, data visualisation, data storage and fleet management
 
-## What is currenty published
+## What is currently published
 
 - [TC37x-demo](https://github.com/veecle/tc37x-demo): demo code to run a 100% Rust basic CAN driver on AURIX™ TC375 LK
 - [Tricore-probe](https://github.com/veecle/tricore-probe): a Rust probe for AURIX™ (currently works on Windows and Linux)  
