@@ -1,6 +1,6 @@
 # Veecle
 
-Our mission is to bridge the gap between existing supplier components and smart apps running on top through unified software framework. We provide a platform to tackle next-gen automotive connected & security demands.
+Our mission is to bridge the gap between existing supplier components and smart apps running on top through a unified software framework. We provide a platform to tackle next-gen automotive connected & security demands.
 
 ### AURIX™ Rust Startup Ecosystem
 
@@ -27,7 +27,7 @@ This is not public (yet). You can find information [here](https://veecle.io/tech
 
 Veecle sits between a legacy electrical/electronic (E/E) architecture, and modern UI and Cloud frameworks. Veecle abstracts an E/E architecture and provides unified control over it using a modern API. Veecle allows companies to develop applications using unified APIs to interact with in-vehicle functions. An optional front-end framework is provided through Android Automotive support.
 
-Our runtime seamlessly integrates across many ECUs — from infotainment systems to real-time controllers, playing together with existing and external services. The very same Rust code base can be compiled for Linux (e.g. Android Automotive) or as an isolated task on a real-time operating system (RTOS), ensuring *freedom from interference* on e.g. Infineon AURIX™ chips, or ARM embedded controllers.
+Our runtime seamlessly integrates across many ECUs — from infotainment systems to real-time controllers, cooperating with existing and external services. The very same Rust code base can be compiled for Linux (e.g. Android Automotive) or as an isolated task on a real-time operating system (RTOS), ensuring *freedom from interference* on e.g. Infineon AURIX™ chips, or ARM embedded controllers.
 
 ![Veecle architecture](rtos-architecture.png)
 
@@ -37,4 +37,4 @@ For licensing, demonstrations, or to learn more about **Veecle's Development Fra
 
 ### Job offers
 
-We are always open to have a chat with people interested in contributing or working with us. Please find our open applications [here](https://veecle.io/company/hiring).
+We are always excited to have a chat with people interested in contributing or working with us. Please find our open positions [here](https://veecle.io/company/hiring).
