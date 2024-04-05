@@ -13,19 +13,19 @@ Veecle contributes with two keys components to the ecosystem:
 
 ### Android Automotive support
 
-We support [Android Automotive](aaos): this enables customers to develop safe and efficient interfaces to the vehicle. 
+We support [Android Automotive](https://source.android.com/docs/automotive/start/what_automotive): this enables customers to develop safe and efficient interfaces to the vehicle. 
 
-This is not public (yet). You can find information [here](aaos-plugin).
+This is not public (yet). You can find information [here](https://veecle.io/tech/aaos).
 
 ### Robot Operating System support
 
-We integrate to the [Robot Operating System](ros) to allow for easy integration with enabled devices over the [Data Distribution Service](dds). 
+We integrate to the [Robot Operating System](https://www.ros.org) to allow for easy integration with enabled devices over the [Data Distribution Service](https://www.dds-foundation.org/what-is-dds-3). 
 
-This is not public (yet). You can find information [here](ros-plugin).
+This is not public (yet). You can find information [here](https://veecle.io/tech/dds).
 
 ## About Veecle
 
-Veecle sits between a legacy E/E architecture and modern UI and Cloud frameworks. Veecle abstracts an E/E architecture and provides unified control over it using a modern API. Veecle allows companies to develop "Apps" using unified APIs to interact with in-vehicle functions. An optional front-end framework is provided through Android Automotive support.
+Veecle sits between a legacy electrical/electronic (E/E) architecture, and modern UI and Cloud frameworks. Veecle abstracts an E/E architecture and provides unified control over it using a modern API. Veecle allows companies to develop applications using unified APIs to interact with in-vehicle functions. An optional front-end framework is provided through Android Automotive support.
 
 Our runtime seamlessly integrates across many ECUs — from infotainment systems to real-time controllers, playing together with existing and external services. The very same Rust code base can be compiled for Linux (e.g. Android Automotive) or as an isolated task on a real-time operating system (RTOS), ensuring *freedom from interference* on e.g. Infineon AURIX™ chips, or ARM embedded controllers.
 
@@ -37,11 +37,4 @@ For licensing, demonstrations, or to learn more about **Veecle's Development Fra
 
 ### Job offers
 
-We are always open to have a chat with people interested in contributing or working with us. Please find our open applications [here](job).
-
-[aaos]: https://source.android.com/docs/automotive/start/what_automotive
-[aaos-plugin]: https://veecle.io/tech/aaos
-[ros-plugin]: https://veecle.io/tech/dds
-[ros]: https://www.ros.org
-[dds]: https://www.dds-foundation.org/what-is-dds-3
-[job]: https://veecle.io/company/hiring
+We are always open to have a chat with people interested in contributing or working with us. Please find our open applications [here](https://veecle.io/company/hiring).
