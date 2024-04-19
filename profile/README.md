@@ -29,7 +29,7 @@ Veecle sits between a legacy electrical/electronic (E/E) architecture, and moder
 
 Our runtime seamlessly integrates across many ECUs — from infotainment systems to real-time controllers, cooperating with existing and external services. The very same Rust code base can be compiled for Linux (e.g. Android Automotive) or as an isolated task on a real-time operating system (RTOS), ensuring *freedom from interference* on e.g. Infineon AURIX™ chips, or ARM embedded controllers.
 
-![Veecle architecture](rtos-architecture.png)
+![Veecle architecture](./rtos-architecture.png)
 
 ### Get in touch
 
