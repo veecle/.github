@@ -18,9 +18,9 @@ Which things are not considered in this spike?
 How long (in hours) did the spike take?
 -->
 
-# Development
+# Research
 <!---
-Which has been the development/testing process?
+Which has been the research process to achieve the spike objectives? Are there any references that may be relevant? Any development or testing?
 -->
 
 # Observations
