@@ -8,6 +8,16 @@ What is this spike about? Which problem or idea is meant to prove?
 Which are the main objectives for this spike? What are we trying to discover? 
 -->
 
+# Out of scope
+<!---
+Which things are not considered in this spike? 
+-->
+
+# Timeframe
+<!---
+How long (in hours) did the spike take?
+-->
+
 # Development
 <!---
 Which has been the development/testing process?
