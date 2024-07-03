@@ -8,6 +8,7 @@ docs: [your title]
 feat: [your title]
 fix: [your title]
 refactor: [your title]
+rfc: [your title]
 test: [your title]
 -->
 
