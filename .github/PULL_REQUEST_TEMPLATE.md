@@ -21,7 +21,6 @@ Checklist:
        feat: [your title]
        fix: [your title]
        refactor: [your title]
-       rfc: [your title]
        test: [your title]
 
  - PR description explains what it intends to achieve (linking to issues where appropriate).
