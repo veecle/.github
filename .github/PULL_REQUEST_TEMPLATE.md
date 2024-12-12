@@ -2,19 +2,19 @@
 
 Thanks for creating a pull request!
 
-Checklist:
+## TODO
 
- - Documentation in README, crate, module, function and/or other locations added/adapted.
+ - 🚧 Documentation in README, crate, module, function and/or other locations added/adapted.
 
- - New tests added and/or existing tests adapted.
+ - 🚧 New tests added and/or existing tests adapted.
 
- - PR is limited to a single logical change.
+ - 🚧 PR is limited to a single logical change.
    For example, if you add a feature, don't include fixes you made along the way
 
- - At least the first commit has a clear title and a descriptive message containing reasoning for the change.
+ - 🚧 At least the first commit has a clear title and a descriptive message containing reasoning for the change.
    This will be included in the final commit message after squashing and merging.
 
- - PR title starts with an appropriate prefix as specified by [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#specification):
+ - 🚧 PR title starts with an appropriate prefix as specified by [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#specification):
 
        chore: [your title]
        docs: [your title]
@@ -23,9 +23,9 @@ Checklist:
        refactor: [your title]
        test: [your title]
 
- - PR description explains what it intends to achieve (linking to issues where appropriate).
+ - 🚧 PR description explains what it intends to achieve (linking to issues where appropriate).
 
- - For more complex PRs, PR description explains _how_ this was achieved.
+ - 🚧 For more complex PRs, PR description explains _how_ this was achieved.
    Did you consider different approaches, were there any trade-offs you made?
    More information about why you implemented your solution the way you did helps reviewers.
 
