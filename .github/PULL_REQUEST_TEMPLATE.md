@@ -31,6 +31,6 @@ Thanks for creating a pull request!
    Did you consider different approaches, were there any trade-offs you made?
    More information about why you implemented your solution the way you did helps reviewers.
 
-(Feel free to delete this comment once you've checked your PR against the requirements, for a draft PR it can be useful to copy not-yet-completed steps out to a TODO section so reviewers know the current state).
+(Feel free to delete this comment once you've checked your PR against the requirements, for a draft PR it can be useful to uncomment and leave not-yet-completed steps in a TODO section so reviewers know the current state).
 
 -->
