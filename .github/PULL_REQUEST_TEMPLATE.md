@@ -23,7 +23,9 @@ Thanks for creating a pull request!
        refactor: [your title]
        test: [your title]
 
- - 🚧 PR description explains what it intends to achieve (linking to issues where appropriate).
+ - 🚧 PR description explains what it intends to achieve.
+
+ - 🚧 Relevant issues are linked.
 
  - 🚧 For more complex PRs, PR description explains _how_ this was achieved.
    Did you consider different approaches, were there any trade-offs you made?
