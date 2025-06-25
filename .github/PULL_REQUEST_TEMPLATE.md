@@ -4,6 +4,8 @@ Thanks for creating a pull request!
 
 ## TODO
 
+ - 🚧 Consider if this PR is release-notes-worthy, and update CHANGELOG.md if so.
+
  - 🚧 Added/updated relevant documentation in README, crate, module, function and/or other locations.
 
  - 🚧 New tests added and/or existing tests adapted.
